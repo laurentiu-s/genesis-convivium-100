@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite the working paper below."
+title: "PROJECT GENESIS v26.11.5: code and data for GENESIS CONVIVIUM 100"
+type: software
+version: "26.11.5"
+date-released: "2026-11-10"
+doi: 10.5281/zenodo.24092709
+license: MIT
+authors:
+  - family-names: Stavaru
+    given-names: Laurentiu
+keywords:
+  - agent-based model
+  - computational thought experiment
+  - AI governance
+  - simulation
+  - reproducibility
+preferred-citation:
+  type: report
+  title: "GENESIS CONVIVIUM 100: The Human–AI Civilization Experiment. A century-scale agent-based thought experiment on intelligence, power and coexistence"
+  authors:
+    - family-names: Stavaru
+      given-names: Laurentiu
+  year: 2026
+  doi: 10.5281/zenodo.24092709
+  month: 11
+  institution:
+    name: Zenodo
+  notes: "Working paper, revision 5; model version v26.11.5. Not peer-reviewed."

@@ -1,0 +1,7 @@
+# Simulation (the versions below are the ones used for the published results)
+numpy==2.5.3
+pandas==3.0.5
+# Figures and tables
+matplotlib>=3.8
+# Only needed to rebuild the notebook from src/ with src/build.py
+nbformat>=5
